@@ -72,7 +72,7 @@ It needs to be investigated if additional attributes need to be defined for pres
 The current draft of MPEG OMAF has been reviewed. It defines a feature to position a 2D plane always in front of the viewer. But the current draft does not contain a feature to indicate the position of the speaker in a 360 scene. An option would be to add the missing feature to MPEG OMAF. But then the solution may be limited to applications that support OMAF. A more interoperable solution would be a solution for the web platform.  
 
 ### Sample implementations
-The funded project ImAc implemented an accessible player for 360 video content. It implements the features suggested in this proposal. It can be trialed on PC or HDM environments at https://imac.gpac-licensing.com/player/.
+The funded project ImAc implemented an accessible player for 360 video content. It implements the features suggested in this proposal. It can be trialed on PC or HDM environments at http://imac.i2cat.net/player/.
 
 ### Related issues & discussions
 * Issues in the proposal repository of the Immersive Web Community Group
